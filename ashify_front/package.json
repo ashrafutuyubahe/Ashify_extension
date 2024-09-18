@@ -2,9 +2,10 @@
   "name": "ashify",
   "version": "1.0.0",
   "description": "this is  music playing  extension for vs code for programmers",
-  "main": "index.js",
+  "main": "extension.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runExt":"nodemon extension.js"
   },
   "author": "ashrafu",
   "license": "ISC",

@@ -1,0 +1,16 @@
+{
+  "name": "ashify",
+  "version": "1.0.0",
+  "description": "this is  music playing  extension for vs code for programmers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashrafu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "nodemon": "^3.1.5"
+  }
+}

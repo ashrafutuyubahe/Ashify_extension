@@ -1,3 +1,4 @@
+
 # Ashify Extension
 Welcome to the Ashify Extension repository! This extension is designed to enhance productivity for developers and VS Code enthusiasts by integrating an enjoyable experience with the best music and videos.
 
